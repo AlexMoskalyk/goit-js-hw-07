@@ -1,0 +1,5 @@
+#gallery {
+  width: 200;
+  display: flex;
+  justify-content: space-between;
+}
